@@ -1,1 +1,1 @@
-bot: python tweet.py
+web: python index.py
